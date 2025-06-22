@@ -1,7 +1,6 @@
 
 
 # 🌲 Generalized Tree Cluster Detection
-# Author: Radha Agarwal
 
 # 📄 Description
 description: >
